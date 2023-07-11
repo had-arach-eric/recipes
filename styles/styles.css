@@ -1,0 +1,18 @@
+h1 {
+  background-color: rgba(122, 119, 119, 0.733);
+}
+
+.links {
+  background-color: rgb(182, 182, 16);
+}
+
+.description,
+.ingredients,
+.steps {
+  background-color: rgb(182, 182, 16);
+}
+
+.content {
+  background-color: rgb(113, 113, 245);
+}
+
