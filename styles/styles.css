@@ -16,3 +16,8 @@ h1 {
   background-color: rgb(113, 113, 245);
 }
 
+img {
+  width: 300px;
+  height: auto;
+}
+
